@@ -1,2 +1,7 @@
-# docs
-Repository for Coindirect integration guides, examples, FAQ's and how-to's
+# Coindirect Developer Docs
+
+**Quick Access:**
+
+* [Getting started](https://github.com/coindirect/docs/wiki)
+* [FULL API](http://docs.coindirect.com/)
+
